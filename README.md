@@ -5,5 +5,7 @@ React guide](https://pusher.com/docs/chatkit/guides/react-one-to-one).
 
 Install dependencies and start the app with
 
-    yarn
-    yarn start
+```
+npm install
+npm install @pusher/chatkit-client-react
+```
